@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Test application for first NodeJS Project",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saar810/myRepo.git"
+  },
+  "author": "Saar Amitay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saar810/myRepo/issues"
+  },
+  "homepage": "https://github.com/saar810/myRepo#readme"
+}
